@@ -23,11 +23,11 @@ export function activate(context: vscode.ExtensionContext) {
           description: "cmd+backspace"
         },
         {
-          label: "open file or expand folder",
+          label: "Open File",
           description: "l"
         },
         {
-          label: "open file to the side",
+          label: "Open File to Side",
           description: "ctrl+enter"
         }
       ];
